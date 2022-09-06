@@ -8,7 +8,7 @@ if (num1 > num2)
 {
     Console.WriteLine("The first number " + num1 + " is greater than the second number " + num2);
 }
-//Иначе, если значение переменной первого числа меньше, чем значение переменной второго числа, то выводим в консоль резудьтат, если сравнение верно
+//Иначе, если значение переменной первого числа меньше, чем значение переменной второго числа, то выводим в консоль результат, если сравнение верно
 else if (num1 < num2)
 {
     Console.WriteLine("The first number " + num1 + " is less than the second number " + num2);
